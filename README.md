@@ -1,4 +1,4 @@
-# Hackathon_2620030500
+# Hackathon1_2620030500
  2a RooftopSolarSystem output:
 PanelID = 206
 Energy = 20.15KWh
@@ -13,3 +13,14 @@ Good Energy Generation
 Enter morning energy generated (kWh): 10
 Enter evening energy generated (kWh): 12
 Total Energy Generated: 22.0 kWh
+
+# Hackathon2_2620030500
+output: 
+Name: ravi
+Roll No: 203
+Course: CSE
+Marks: 85.0
+Credits: 20
+Fee: Rs.30000.0
+Scholarship: Rs.6000.0
+Final Fee: Rs.24000.0
